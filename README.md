@@ -11,7 +11,7 @@
  <div>🔶 ERD 다이어그램</div><br>
  <img src="https://user-images.githubusercontent.com/115056845/235335711-db193ed8-6919-4e71-8717-b4701affd26f.svg">
  <img src="https://user-images.githubusercontent.com/115056845/235335716-cae66005-e34c-4a2c-aec1-77205c6ed273.svg">
- <img src="https://user-images.githubusercontent.com/115056845/235335719-9fd60fa2-a329-4ce2-a86d-cb3b899a8d42.svg">
+ <img src="https://user-images.githubusercontent.com/115056845/235335851-bd6a6689-7e87-4fe8-acdd-9144a8fcd473.svg">
 </div><br>
 <div align="center">
  <div>🔶 시퀀스 다이어그램</div><br>
